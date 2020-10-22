@@ -1,6 +1,8 @@
 # Stochastic Optimization with Heavy-Tailed Noise via Accelerated Gradient Clipping
 
-Code for the paper "Stochastic Optimization with Heavy-Tailed Noise via Accelerated Gradient Clipping" by Eduard Gorbunov, Marina Danilova and Alexander Gasnikov
+Code for the paper "Stochastic Optimization with Heavy-Tailed Noise via Accelerated Gradient Clipping" by Eduard Gorbunov, Marina Danilova and Alexander Gasnikov, NeurIPS 2020
+
+https://arxiv.org/pdf/2005.10785.pdf
 
 To run the experiments one should download the data from LIBSVM https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html and save the datasets in .txt format in the folder called "datasets". Also one should create folders "dump" and "plot".
 
